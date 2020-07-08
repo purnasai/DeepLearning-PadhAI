@@ -23,6 +23,7 @@ Each folder inside the repo contains the code for the respective topic and has s
 * [Visualizing CNN Models](DeepLearning_Materials/6_VisualizationCNN_Pytorch): Visualizing the filters present in CNN.
   * **Blog**: [Visualizing Convolution Neural Networks using Pytorch](https://towardsdatascience.com/visualizing-convolution-neural-networks-using-pytorch-3dfa8443e74e)
 * [Batch Normalization and Dropout in Neural Networks](DeepLearning_Materials/7_BatchNormalization): Batch Norm and Dropout explained with Pytorch
+  * **Blog**: [Batch norm and Dropout](https://towardsdatascience.com/batch-normalization-and-dropout-in-neural-networks-explained-with-pytorch-47d7a8459bcd)
 
 <br/>
 
